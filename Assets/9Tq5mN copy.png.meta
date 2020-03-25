@@ -1,0 +1,4711 @@
+fileFormatVersion: 2
+guid: cd48bfebd64344c61aa87cfb91d0244d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4759060192963444486
+    second: 9Tq5mN copy_0
+  - first:
+      213: -3911659470027305473
+    second: 9Tq5mN copy_1
+  - first:
+      213: -2619719567712993609
+    second: 9Tq5mN copy_2
+  - first:
+      213: 5468226808404206868
+    second: 9Tq5mN copy_3
+  - first:
+      213: -6123298962094183475
+    second: 9Tq5mN copy_4
+  - first:
+      213: -5381374878919375564
+    second: 9Tq5mN copy_5
+  - first:
+      213: -3035510005827495632
+    second: 9Tq5mN copy_6
+  - first:
+      213: 4847410653485946797
+    second: 9Tq5mN copy_7
+  - first:
+      213: 7961406617773400980
+    second: 9Tq5mN copy_8
+  - first:
+      213: 4488807577442052643
+    second: 9Tq5mN copy_9
+  - first:
+      213: -5956227624542203815
+    second: 9Tq5mN copy_10
+  - first:
+      213: -1562270027345435586
+    second: 9Tq5mN copy_11
+  - first:
+      213: -6876167527238818039
+    second: 9Tq5mN copy_12
+  - first:
+      213: -596358042119126000
+    second: 9Tq5mN copy_13
+  - first:
+      213: -8987319406352677930
+    second: 9Tq5mN copy_14
+  - first:
+      213: -6579296770974147371
+    second: 9Tq5mN copy_15
+  - first:
+      213: -2474488202919944574
+    second: 9Tq5mN copy_16
+  - first:
+      213: -3255792308411237702
+    second: 9Tq5mN copy_17
+  - first:
+      213: 3606451884962072173
+    second: 9Tq5mN copy_18
+  - first:
+      213: 725047528267023028
+    second: 9Tq5mN copy_19
+  - first:
+      213: -3654941560116960135
+    second: 9Tq5mN copy_20
+  - first:
+      213: 6795602057348132229
+    second: 9Tq5mN copy_21
+  - first:
+      213: 7057135543721830415
+    second: 9Tq5mN copy_22
+  - first:
+      213: -4153873154969464582
+    second: 9Tq5mN copy_23
+  - first:
+      213: 2795459565933417494
+    second: 9Tq5mN copy_24
+  - first:
+      213: 6956140102617292199
+    second: 9Tq5mN copy_25
+  - first:
+      213: 593210922987171711
+    second: 9Tq5mN copy_26
+  - first:
+      213: 8560730411064150266
+    second: 9Tq5mN copy_27
+  - first:
+      213: -3123914262008282669
+    second: 9Tq5mN copy_28
+  - first:
+      213: 5809863634292673208
+    second: 9Tq5mN copy_29
+  - first:
+      213: -6805001763825964091
+    second: 9Tq5mN copy_30
+  - first:
+      213: -627590256486777510
+    second: 9Tq5mN copy_31
+  - first:
+      213: -6324210270786770887
+    second: 9Tq5mN copy_32
+  - first:
+      213: 3211724184455808037
+    second: 9Tq5mN copy_33
+  - first:
+      213: -8722776019384644369
+    second: 9Tq5mN copy_34
+  - first:
+      213: -4214868350482667206
+    second: 9Tq5mN copy_35
+  - first:
+      213: -8980969187137173155
+    second: 9Tq5mN copy_36
+  - first:
+      213: -6248810828187476587
+    second: 9Tq5mN copy_37
+  - first:
+      213: 7538145620511157568
+    second: 9Tq5mN copy_38
+  - first:
+      213: -5427077116522672766
+    second: 9Tq5mN copy_39
+  - first:
+      213: -3686608265879152234
+    second: 9Tq5mN copy_40
+  - first:
+      213: 3360408697584678286
+    second: 9Tq5mN copy_41
+  - first:
+      213: -2355607534272046406
+    second: 9Tq5mN copy_42
+  - first:
+      213: -3498424140272037668
+    second: 9Tq5mN copy_43
+  - first:
+      213: 1887535162436064621
+    second: 9Tq5mN copy_44
+  - first:
+      213: 2072209904593235504
+    second: 9Tq5mN copy_45
+  - first:
+      213: -8165629602820711671
+    second: 9Tq5mN copy_46
+  - first:
+      213: 5203064329661889375
+    second: 9Tq5mN copy_47
+  - first:
+      213: -9183650989965349948
+    second: 9Tq5mN copy_48
+  - first:
+      213: -3513683600539839901
+    second: 9Tq5mN copy_49
+  - first:
+      213: 7666500715431718305
+    second: 9Tq5mN copy_50
+  - first:
+      213: 7222332876881954048
+    second: 9Tq5mN copy_51
+  - first:
+      213: 5555972231343471384
+    second: 9Tq5mN copy_52
+  - first:
+      213: 4313895558580728761
+    second: 9Tq5mN copy_53
+  - first:
+      213: -2295506964011961093
+    second: 9Tq5mN copy_54
+  - first:
+      213: 2031347473764098989
+    second: 9Tq5mN copy_55
+  - first:
+      213: -3167753531496733681
+    second: 9Tq5mN copy_56
+  - first:
+      213: 1266346047725706431
+    second: 9Tq5mN copy_57
+  - first:
+      213: -7987790598271672260
+    second: 9Tq5mN copy_58
+  - first:
+      213: -2699220810435094020
+    second: 9Tq5mN copy_59
+  - first:
+      213: -2001868716076864749
+    second: 9Tq5mN copy_60
+  - first:
+      213: -1219215663931188983
+    second: 9Tq5mN copy_61
+  - first:
+      213: -785870840270708032
+    second: 9Tq5mN copy_62
+  - first:
+      213: -6667632012598128795
+    second: 9Tq5mN copy_63
+  - first:
+      213: -6291716130552817734
+    second: 9Tq5mN copy_64
+  - first:
+      213: -6364981358541011909
+    second: 9Tq5mN copy_65
+  - first:
+      213: -440652079038158429
+    second: 9Tq5mN copy_66
+  - first:
+      213: 7492296065584947349
+    second: 9Tq5mN copy_67
+  - first:
+      213: -8247790303456344939
+    second: 9Tq5mN copy_68
+  - first:
+      213: -520123108799850508
+    second: 9Tq5mN copy_69
+  - first:
+      213: 5965375353352155494
+    second: 9Tq5mN copy_70
+  - first:
+      213: -3440247916774352002
+    second: 9Tq5mN copy_71
+  - first:
+      213: -3689039655527836763
+    second: 9Tq5mN copy_72
+  - first:
+      213: -9128302914894380014
+    second: 9Tq5mN copy_73
+  - first:
+      213: 7348316749252369534
+    second: 9Tq5mN copy_74
+  - first:
+      213: -5103236782143412545
+    second: 9Tq5mN copy_75
+  - first:
+      213: 8044376772757055787
+    second: 9Tq5mN copy_76
+  - first:
+      213: 109450166077296124
+    second: 9Tq5mN copy_77
+  - first:
+      213: 4412918707463062723
+    second: 9Tq5mN copy_78
+  - first:
+      213: 6601866914654530637
+    second: 9Tq5mN copy_79
+  - first:
+      213: 2923921115651338243
+    second: 9Tq5mN copy_80
+  - first:
+      213: -8015093039680203737
+    second: 9Tq5mN copy_81
+  - first:
+      213: 7988409828036594147
+    second: 9Tq5mN copy_82
+  - first:
+      213: -4012969974346510953
+    second: 9Tq5mN copy_83
+  - first:
+      213: 880749059063844601
+    second: 9Tq5mN copy_84
+  - first:
+      213: 7027319685723127554
+    second: 9Tq5mN copy_85
+  - first:
+      213: -7948292189591199886
+    second: 9Tq5mN copy_86
+  - first:
+      213: -7602033339173391604
+    second: 9Tq5mN copy_87
+  - first:
+      213: 9051952533530844294
+    second: 9Tq5mN copy_88
+  - first:
+      213: 454320642208984522
+    second: 9Tq5mN copy_89
+  - first:
+      213: -5280212185282189572
+    second: 9Tq5mN copy_90
+  - first:
+      213: 7912805358788334884
+    second: 9Tq5mN copy_91
+  - first:
+      213: 4485748340445392852
+    second: 9Tq5mN copy_92
+  - first:
+      213: 3586077346804625048
+    second: 9Tq5mN copy_93
+  - first:
+      213: 4259594875321934172
+    second: 9Tq5mN copy_94
+  - first:
+      213: -1429300768320474769
+    second: 9Tq5mN copy_95
+  - first:
+      213: -2105255659289132329
+    second: 9Tq5mN copy_96
+  - first:
+      213: 1090583009339056685
+    second: 9Tq5mN copy_97
+  - first:
+      213: -1012345660021123264
+    second: 9Tq5mN copy_98
+  - first:
+      213: -305461669558218906
+    second: 9Tq5mN copy_99
+  - first:
+      213: -2207635951195353531
+    second: 9Tq5mN copy_100
+  - first:
+      213: -9049122216379954282
+    second: 9Tq5mN copy_101
+  - first:
+      213: -1967596093523905661
+    second: 9Tq5mN copy_102
+  - first:
+      213: 224401238394655879
+    second: 9Tq5mN copy_103
+  - first:
+      213: -8980656596678080037
+    second: 9Tq5mN copy_104
+  - first:
+      213: 8818421657088592440
+    second: 9Tq5mN copy_105
+  - first:
+      213: 3951386548695327750
+    second: 9Tq5mN copy_106
+  - first:
+      213: -4490891776104727535
+    second: 9Tq5mN copy_107
+  - first:
+      213: 4340205350928869370
+    second: 9Tq5mN copy_108
+  - first:
+      213: 3976353847156332893
+    second: 9Tq5mN copy_109
+  - first:
+      213: -4631492506783372307
+    second: 9Tq5mN copy_110
+  - first:
+      213: 5855199417270207902
+    second: 9Tq5mN copy_111
+  - first:
+      213: -8162719469677984779
+    second: 9Tq5mN copy_112
+  - first:
+      213: -1797121425581791077
+    second: 9Tq5mN copy_113
+  - first:
+      213: -1850864180674948081
+    second: 9Tq5mN copy_114
+  - first:
+      213: 7562001396359676074
+    second: 9Tq5mN copy_115
+  - first:
+      213: -2891844112457249895
+    second: 9Tq5mN copy_116
+  - first:
+      213: 5427465971080892840
+    second: 9Tq5mN copy_117
+  - first:
+      213: 7472781779684535440
+    second: 9Tq5mN copy_118
+  - first:
+      213: -3320031897775150991
+    second: 9Tq5mN copy_119
+  - first:
+      213: 4682928134930321044
+    second: 9Tq5mN copy_120
+  - first:
+      213: -3631991867510135550
+    second: 9Tq5mN copy_121
+  - first:
+      213: -2177448771274302953
+    second: 9Tq5mN copy_122
+  - first:
+      213: 7594070470844320879
+    second: 9Tq5mN copy_123
+  - first:
+      213: 4308264278599430256
+    second: 9Tq5mN copy_124
+  - first:
+      213: 8617180112496538779
+    second: 9Tq5mN copy_125
+  - first:
+      213: 2884524047399817261
+    second: 9Tq5mN copy_126
+  - first:
+      213: 6788340990873943628
+    second: 9Tq5mN copy_127
+  - first:
+      213: 4378698279196271838
+    second: 9Tq5mN copy_128
+  - first:
+      213: -5762622727931197621
+    second: 9Tq5mN copy_129
+  - first:
+      213: 7439409842547166222
+    second: 9Tq5mN copy_130
+  - first:
+      213: 6232042489118669227
+    second: 9Tq5mN copy_131
+  - first:
+      213: 4137253709029839765
+    second: 9Tq5mN copy_132
+  - first:
+      213: 605855315801797718
+    second: 9Tq5mN copy_133
+  - first:
+      213: 7796940675152797073
+    second: 9Tq5mN copy_134
+  - first:
+      213: -6573947838300955704
+    second: 9Tq5mN copy_135
+  - first:
+      213: -3323331890849050830
+    second: 9Tq5mN copy_136
+  - first:
+      213: 8057323970028397329
+    second: 9Tq5mN copy_137
+  - first:
+      213: -238803873571787708
+    second: 9Tq5mN copy_138
+  - first:
+      213: 6138139599144421759
+    second: 9Tq5mN copy_139
+  - first:
+      213: -512810057578573164
+    second: 9Tq5mN copy_140
+  - first:
+      213: 502280547122760594
+    second: 9Tq5mN copy_141
+  - first:
+      213: -6665669426244055155
+    second: 9Tq5mN copy_142
+  - first:
+      213: 4107360868219503696
+    second: 9Tq5mN copy_143
+  - first:
+      213: -5377461027431889071
+    second: 9Tq5mN copy_144
+  - first:
+      213: -2600859355673759103
+    second: 9Tq5mN copy_145
+  - first:
+      213: 9076990385248802642
+    second: 9Tq5mN copy_146
+  - first:
+      213: -7491421950841659417
+    second: 9Tq5mN copy_147
+  - first:
+      213: 163735971736409643
+    second: 9Tq5mN copy_148
+  - first:
+      213: 1556891989738470713
+    second: 9Tq5mN copy_149
+  - first:
+      213: 2836291543491243447
+    second: 9Tq5mN copy_150
+  - first:
+      213: 984612979407149565
+    second: 9Tq5mN copy_151
+  - first:
+      213: 9036171518016357958
+    second: 9Tq5mN copy_152
+  - first:
+      213: -8112860220872044523
+    second: 9Tq5mN copy_153
+  - first:
+      213: -1441031389941378093
+    second: 9Tq5mN copy_154
+  - first:
+      213: 6964943330223236222
+    second: 9Tq5mN copy_155
+  - first:
+      213: -5436827263949853122
+    second: 9Tq5mN copy_156
+  - first:
+      213: -2043839229325487233
+    second: 9Tq5mN copy_157
+  - first:
+      213: -9126839008792722530
+    second: 9Tq5mN copy_158
+  - first:
+      213: -4969187938494702710
+    second: 9Tq5mN copy_159
+  - first:
+      213: -555402037656780241
+    second: 9Tq5mN copy_160
+  - first:
+      213: -7712576579208976187
+    second: 9Tq5mN copy_161
+  - first:
+      213: 2743917101731078650
+    second: 9Tq5mN copy_162
+  - first:
+      213: -8763105506685384969
+    second: 9Tq5mN copy_163
+  - first:
+      213: 1485792042633100598
+    second: 9Tq5mN copy_164
+  - first:
+      213: 8874909369858211251
+    second: 9Tq5mN copy_165
+  - first:
+      213: -9178088007600781559
+    second: 9Tq5mN copy_166
+  - first:
+      213: 4325101862172687911
+    second: 9Tq5mN copy_167
+  - first:
+      213: 8273206005072584880
+    second: 9Tq5mN copy_168
+  - first:
+      213: -103207507412053825
+    second: 9Tq5mN copy_169
+  - first:
+      213: 524768647804231613
+    second: 9Tq5mN copy_170
+  - first:
+      213: -5524419918947230328
+    second: 9Tq5mN copy_171
+  - first:
+      213: -9122671440027573372
+    second: 9Tq5mN copy_172
+  - first:
+      213: 7154014425240964379
+    second: 9Tq5mN copy_173
+  - first:
+      213: 7297010641348109509
+    second: 9Tq5mN copy_174
+  - first:
+      213: 2409917028379593400
+    second: 9Tq5mN copy_175
+  - first:
+      213: -2876016853335568191
+    second: 9Tq5mN copy_176
+  - first:
+      213: 6985676067178549950
+    second: 9Tq5mN copy_177
+  - first:
+      213: 4036583841010545137
+    second: 9Tq5mN copy_178
+  - first:
+      213: 5672575507685100377
+    second: 9Tq5mN copy_179
+  - first:
+      213: 459907156326683013
+    second: 9Tq5mN copy_180
+  - first:
+      213: 1158754432046590968
+    second: 9Tq5mN copy_181
+  - first:
+      213: 6430051487054886334
+    second: 9Tq5mN copy_182
+  - first:
+      213: 8377764868809502389
+    second: 9Tq5mN copy_183
+  - first:
+      213: -7243732098132366714
+    second: 9Tq5mN copy_184
+  - first:
+      213: 3816437838233101349
+    second: 9Tq5mN copy_185
+  - first:
+      213: -7504928044924373513
+    second: 9Tq5mN copy_186
+  - first:
+      213: -1978310037079108344
+    second: 9Tq5mN copy_187
+  - first:
+      213: -2752571571955652283
+    second: 9Tq5mN copy_188
+  - first:
+      213: 130568306574854232
+    second: 9Tq5mN copy_189
+  - first:
+      213: -2537466683829885460
+    second: 9Tq5mN copy_190
+  - first:
+      213: 7173857712049631087
+    second: 9Tq5mN copy_191
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 9Tq5mN copy_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb94ae7049b0240800000000000000
+      internalID: 4759060192963444486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcab6df6ef6b9c0800000000000000
+      internalID: -3911659470027305473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb35bdee2e4abd0800000000000000
+      internalID: -2619719567712993609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41563327f4b03eb40800000000000000
+      internalID: 5468226808404206868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbabde590ca50ba0800000000000000
+      internalID: -6123298962094183475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ccc23f048155b0800000000000000
+      internalID: -5381374878919375564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03912868bb3bfd5d0800000000000000
+      internalID: -3035510005827495632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da759718e46754340800000000000000
+      internalID: 4847410653485946797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e3d433299c7e60800000000000000
+      internalID: 7961406617773400980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae38e75b27b4e30800000000000000
+      internalID: 4488807577442052643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_10
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9501bcd688a375da0800000000000000
+      internalID: -5956227624542203815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_11
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1089
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e5d8ffa3b15ae0800000000000000
+      internalID: -1562270027345435586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907aad2c012f290a0800000000000000
+      internalID: -6876167527238818039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ca84358f49b7f0800000000000000
+      internalID: -596358042119126000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3cf55ed90a64380800000000000000
+      internalID: -8987319406352677930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc16360274a1b4a0800000000000000
+      internalID: -6579296770974147371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28edf00071ad8add0800000000000000
+      internalID: -2474488202919944574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaf2ba352a11d2d0800000000000000
+      internalID: -3255792308411237702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c3bea1e0bc0230800000000000000
+      internalID: 3606451884962072173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b281afa2e2ef0a00800000000000000
+      internalID: 725047528267023028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974aa6a040a074dc0800000000000000
+      internalID: -3654941560116960135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_21
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d26270114de4e50800000000000000
+      internalID: 6795602057348132229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a25ff26bffe160800000000000000
+      internalID: 7057135543721830415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_23
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1028
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0930caf5a7a56c0800000000000000
+      internalID: -4153873154969464582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614dd6b0aa77bc620800000000000000
+      internalID: 2795459565933417494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5a50719c298060800000000000000
+      internalID: 6956140102617292199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f288501328b3800800000000000000
+      internalID: 593210922987171711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8cc51c3f2ddc670800000000000000
+      internalID: 8560730411064150266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14838a780a5a4d0800000000000000
+      internalID: -3123914262008282669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_29
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba89738138c0a050800000000000000
+      internalID: 5809863634292673208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2f3343f6cf81a0800000000000000
+      internalID: -6805001763825964091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_31
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dfb91acf95a47f0800000000000000
+      internalID: -627590256486777510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_32
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a0ec0444eb38a0800000000000000
+      internalID: -6324210270786770887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_33
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524050b1126529c20800000000000000
+      internalID: 3211724184455808037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4845fc6972f680800000000000000
+      internalID: -8722776019384644369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_35
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 967
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a17a0197c185c0800000000000000
+      internalID: -4214868350482667206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59c5f58b103d5380800000000000000
+      internalID: -8980969187137173155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d554dc8a3c749a0800000000000000
+      internalID: -6248810828187476587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04debb7c08fdc9860800000000000000
+      internalID: 7538145620511157568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dc30dcd162fa4b0800000000000000
+      internalID: -5427077116522672766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699114e805986dcc0800000000000000
+      internalID: -3686608265879152234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_41
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85faaff7e192ae20800000000000000
+      internalID: 3360408697584678286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_42
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1b799d633f4fd0800000000000000
+      internalID: -2355607534272046406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_43
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01f65a7c9137fc0800000000000000
+      internalID: -3498424140272037668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_44
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d659f0aca3fd13a10800000000000000
+      internalID: 1887535162436064621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e635fdde7f1cc10800000000000000
+      internalID: 2072209904593235504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b157cb32bddae80800000000000000
+      internalID: -8165629602820711671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_47
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 906
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bb009d07ff43840800000000000000
+      internalID: 5203064329661889375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb63f9e41e1d8080800000000000000
+      internalID: -9183650989965349948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_49
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36215b0b163ec3fc0800000000000000
+      internalID: -3513683600539839901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_50
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ade59528c1e46a60800000000000000
+      internalID: 7666500715431718305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_51
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0058c286c71ea3460800000000000000
+      internalID: 7222332876881954048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b792fbe47ca1d40800000000000000
+      internalID: 5555972231343471384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f65f87290edb30800000000000000
+      internalID: 4313895558580728761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_54
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b1ae0498b420e0800000000000000
+      internalID: -2295506964011961093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_55
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a81dc3cbc03c10800000000000000
+      internalID: 2031347473764098989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_56
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04e52352f0e904d0800000000000000
+      internalID: -3167753531496733681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_57
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc19616507f29110800000000000000
+      internalID: 1266346047725706431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_58
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30efc1a5caa52190800000000000000
+      internalID: -7987790598271672260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_59
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 845
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99ca759f07a8ad0800000000000000
+      internalID: -2699220810435094020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6543520fe734e0800000000000000
+      internalID: -2001868716076864749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_61
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9091ac630d9741fe0800000000000000
+      internalID: -1219215663931188983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_62
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a35e62a60815f0800000000000000
+      internalID: -785870840270708032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_63
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc01cd200d773a0800000000000000
+      internalID: -6667632012598128795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ddc2a3855fa8a0800000000000000
+      internalID: -6291716130552817734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_65
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340e227d2b0ba7a0800000000000000
+      internalID: -6364981358541011909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9a46fc44d72e9f0800000000000000
+      internalID: -440652079038158429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_67
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906f35639bf9f760800000000000000
+      internalID: 7492296065584947349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_68
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c29cea66f98d80800000000000000
+      internalID: -8247790303456344939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_69
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7538cc9c628c8f0800000000000000
+      internalID: -520123108799850508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_70
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661fc68274549c250800000000000000
+      internalID: 5965375353352155494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_71
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 784
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b13653fb8c140d0800000000000000
+      internalID: -3440247916774352002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31fe98af5edccc0800000000000000
+      internalID: -3689039655527836763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_73
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ce8bdcd0c15180800000000000000
+      internalID: -9128302914894380014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_74
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9d3086277af560800000000000000
+      internalID: 7348316749252369534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_75
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb662ab4f29ad29b0800000000000000
+      internalID: -5103236782143412545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29669bcd0e53af60800000000000000
+      internalID: 8044376772757055787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd05ad9858d48100800000000000000
+      internalID: 109450166077296124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_78
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4030d0f26dd3d30800000000000000
+      internalID: 4412918707463062723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_79
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c236e0bfa8e9b50800000000000000
+      internalID: 6601866914654530637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_80
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30079a953cad39820800000000000000
+      internalID: 2923921115651338243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_81
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724d720a85ba4c090800000000000000
+      internalID: -8015093039680203737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_82
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e94c580a688cde60800000000000000
+      internalID: 7988409828036594147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_83
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 723
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d84c8e1111f48c0800000000000000
+      internalID: -4012969974346510953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe82c15a9c093c00800000000000000
+      internalID: 880749059063844601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff2a6950e068160800000000000000
+      internalID: 7027319685723127554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f976c8d5ef1b190800000000000000
+      internalID: -7948292189591199886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_87
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03b4ef84f6208690800000000000000
+      internalID: -7602033339173391604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_88
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c9dc4bedefe9d70800000000000000
+      internalID: 9051952533530844294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_89
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6efc87321e4600800000000000000
+      internalID: 454320642208984522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e0954efae8b6b0800000000000000
+      internalID: -5280212185282189572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_91
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d26bcc8eefcd60800000000000000
+      internalID: 7912805358788334884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_92
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfab006954904e30800000000000000
+      internalID: 4485748340445392852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_93
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e6d59d85e44c130800000000000000
+      internalID: 3586077346804625048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_94
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5163a688fe1d1b30800000000000000
+      internalID: 4259594875321934172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_95
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 662
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b013268a1a2ce0800000000000000
+      internalID: -1429300768320474769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c0bac121a8c2e0800000000000000
+      internalID: -2105255659289132329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_97
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d222bb50877822f00800000000000000
+      internalID: 1090583009339056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04758806cfc63f1f0800000000000000
+      internalID: -1012345660021123264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_99
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f0c7dda38c2cbf0800000000000000
+      internalID: -305461669558218906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_100
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8e978cc6ec51e0800000000000000
+      internalID: -2207635951195353531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_101
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc39bd94f0b6280800000000000000
+      internalID: -9049122216379954282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_102
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383bf0817c1b1b4e0800000000000000
+      internalID: -1967596093523905661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_103
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784dba5ccbb3d1300800000000000000
+      internalID: 224401238394655879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_104
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90c39286c4e5380800000000000000
+      internalID: -8980656596678080037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_105
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a806e66c3516a70800000000000000
+      internalID: 8818421657088592440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_106
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ed35712526d630800000000000000
+      internalID: 3951386548695327750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_107
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 601
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cfd8039b52da1c0800000000000000
+      internalID: -4490891776104727535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76d5275c18b3c30800000000000000
+      internalID: 4340205350928869370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59d201a1c8de2730800000000000000
+      internalID: 3976353847156332893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_110
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2b419a12a9bfb0800000000000000
+      internalID: -4631492506783372307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_111
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95077b09d8d14150800000000000000
+      internalID: 5855199417270207902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_112
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3cda8e3e138be80800000000000000
+      internalID: -8162719469677984779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_113
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9824f1c5975f07e0800000000000000
+      internalID: -1797121425581791077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_114
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04106f75d86056e0800000000000000
+      internalID: -1850864180674948081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_115
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c60d6430a1f860800000000000000
+      internalID: 7562001396359676074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_116
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b4e23f91b1ed7d0800000000000000
+      internalID: -2891844112457249895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_117
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11cc47b8b325b40800000000000000
+      internalID: 5427465971080892840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_118
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cab16af67a4b760800000000000000
+      internalID: 7472781779684535440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_119
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 540
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178652a4490ece1d0800000000000000
+      internalID: -3320031897775150991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_120
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4437d35a1df040800000000000000
+      internalID: 4682928134930321044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_121
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20563fdb3a2989dc0800000000000000
+      internalID: -3631991867510135550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_122
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a959f01e528c1e0800000000000000
+      internalID: -2177448771274302953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_123
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c85fdabde836960800000000000000
+      internalID: 7594070470844320879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_124
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707c6409870acb30800000000000000
+      internalID: 4308264278599430256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_125
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94bae218af569770800000000000000
+      internalID: 8617180112496538779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_126
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2096579653e70820800000000000000
+      internalID: 2884524047399817261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_127
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eb34f3a28053e50800000000000000
+      internalID: 6788340990873943628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_128
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ab16b2e244cc30800000000000000
+      internalID: 4378698279196271838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_129
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47811f192d0700b0800000000000000
+      internalID: -5762622727931197621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_130
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c819b06d71e3760800000000000000
+      internalID: 7439409842547166222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_131
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 479
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93f0500a9ac7650800000000000000
+      internalID: 6232042489118669227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_132
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5931468045a7a6930800000000000000
+      internalID: 4137253709029839765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_133
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f5a3233e686800800000000000000
+      internalID: 605855315801797718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_134
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dd64deb3c443c60800000000000000
+      internalID: 7796940675152797073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_135
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbdf167545a4c4a0800000000000000
+      internalID: -6573947838300955704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_136
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f0737c04721e1d0800000000000000
+      internalID: -3323331890849050830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_137
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11368c1167d51df60800000000000000
+      internalID: 8057323970028397329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c24c864299facf0800000000000000
+      internalID: -238803873571787708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_139
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7903c4b17d0f2550800000000000000
+      internalID: 6138139599144421759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_140
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49218c838f122e8f0800000000000000
+      internalID: -512810057578573164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_141
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b47d41f7578f600800000000000000
+      internalID: 502280547122760594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_142
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8a8a19f8ce73a0800000000000000
+      internalID: -6665669426244055155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_143
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 418
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054409aa2f6400930800000000000000
+      internalID: 4107360868219503696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574a62cfab6f55b0800000000000000
+      internalID: -5377461027431889071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182705a2234e7ebd0800000000000000
+      internalID: -2600859355673759103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_146
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571466d9a2f7fd70800000000000000
+      internalID: 9076990385248802642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_147
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd48d4d6f190890800000000000000
+      internalID: -7491421950841659417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_148
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265d40bff4b54200800000000000000
+      internalID: 163735971736409643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_149
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d330214013b9510800000000000000
+      internalID: 1556891989738470713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_150
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6d39a1288c5720800000000000000
+      internalID: 2836291543491243447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_151
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df95dceb94c0aad00800000000000000
+      internalID: 984612979407149565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_152
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6460ed4be1ee66d70800000000000000
+      internalID: 9036171518016357958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_153
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105686ec94596f80800000000000000
+      internalID: -8112860220872044523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_154
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35b54f59d600ce0800000000000000
+      internalID: -1441031389941378093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_155
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 357
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74aea69e0378a060800000000000000
+      internalID: 6964943330223236222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_156
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e2c13b8628c84b0800000000000000
+      internalID: -5436827263949853122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_157
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73db06bc03d2a3e0800000000000000
+      internalID: -2043839229325487233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_158
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934bbe0744f65180800000000000000
+      internalID: -9126839008792722530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1ed7d5e5e90bb0800000000000000
+      internalID: -4969187938494702710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_160
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2280f51ac0da48f0800000000000000
+      internalID: -555402037656780241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_161
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86045d67c67f490800000000000000
+      internalID: -7712576579208976187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_162
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1eccde01a541620800000000000000
+      internalID: 2743917101731078650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_163
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68fb878f1336680800000000000000
+      internalID: -8763105506685384969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_164
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d7f3f9df79e9410800000000000000
+      internalID: 1485792042633100598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_165
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd3f24fc030a2b70800000000000000
+      internalID: 8874909369858211251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_166
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ceada591e0a080800000000000000
+      internalID: -9178088007600781559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_167
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 296
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72efe207a39d50c30800000000000000
+      internalID: 4325101862172687911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_168
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0eafd370550d270800000000000000
+      internalID: 8273206005072584880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_169
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01d8e9155519ef0800000000000000
+      internalID: -103207507412053825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_170
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf12a90e4a584700800000000000000
+      internalID: 524768647804231613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_171
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dde057a515553b0800000000000000
+      internalID: -5524419918947230328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_172
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832e86c8a2c56180800000000000000
+      internalID: -9122671440027573372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_173
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d0286573a284360800000000000000
+      internalID: 7154014425240964379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_174
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4accf5480344560800000000000000
+      internalID: 7297010641348109509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_175
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0bbed4ceb17120800000000000000
+      internalID: 2409917028379593400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_176
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c095e0e8e55618d0800000000000000
+      internalID: -2876016853335568191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_177
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb210241f5b12f060800000000000000
+      internalID: 6985676067178549950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_178
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f38ddd93d40830800000000000000
+      internalID: 4036583841010545137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_179
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 235
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc621ae5909be40800000000000000
+      internalID: 5672575507685100377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_180
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581138a3f1be16600800000000000000
+      internalID: 459907156326683013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_181
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbeb004409b41010800000000000000
+      internalID: 1158754432046590968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_182
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f06572c12c3950800000000000000
+      internalID: 6430051487054886334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_183
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2329c2ccc34470800000000000000
+      internalID: 8377764868809502389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_184
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa9b22908197b90800000000000000
+      internalID: -7243732098132366714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_185
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5246e375ef5b6f430800000000000000
+      internalID: 3816437838233101349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_186
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f57a69b4b329d790800000000000000
+      internalID: -7504928044924373513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_187
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8055f48b081ab84e0800000000000000
+      internalID: -1978310037079108344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_188
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549aeb23db6ecc9d0800000000000000
+      internalID: -2752571571955652283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_189
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858815cde2fdfc100800000000000000
+      internalID: 130568306574854232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_190
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56ee0ce7b19ccd0800000000000000
+      internalID: -2537466683829885460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9Tq5mN copy_191
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 174
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2ae39499ae8360800000000000000
+      internalID: 7173857712049631087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
